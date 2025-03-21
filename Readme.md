@@ -31,7 +31,7 @@ python main.py
 ## File Structure
 ```
 /
-│── fraud_detection.py   # Main script
+│── main.py   # Main script
 │── transactions_train.csv  # Dataset (to be provided by the user)
 │── README.md          # Project documentation
 ```
